@@ -1,0 +1,48 @@
+html {
+  box-sizing: border-box;
+  font-family: "Droid Serif", serif;
+}
+
+
+footer,
+header {
+  color:#fff;
+  background-color: #70ad55;
+}
+
+input type="checkbox"] + label::before {
+  border-color: #6e8c62;
+}
+
+input type="radio"] + label::before {
+  border-color: #6e8c62;
+}
+
+button {
+  background-color: #6e8c62;
+  border: 3px solid  #6e8c62;
+}
+
+input {
+  border-color: #6e8c62;
+}
+select {
+  border-color: #6e8c62;
+}
+
+fieldset {
+  border: 0;
+}
+
+span {
+  color: #6e8c62;
+}
+
+hr {
+  border-top: 2px solid rgba(112, 173, 85, .5)
+}
+
+textarea {
+  padding: 2rem;
+  border-color:  #6e8c62;
+}
